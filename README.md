@@ -10,4 +10,4 @@ Use the comment facility in MySQL (starting a line with -- ) to write the Englis
 --- Q3: Retrieve the names of pilots who flew FROM any airport in 'TX'.
  --- Q4: Retrieve the total number of take offs for Pilot 'Jones' 
 --- Q5: Retrieve the Maker, Model, and total number of seats of planes that has more than 300 seats in total. 
---- Q6: Retrieve the Maker and the total number of planes made by this Maker, for Makers who make any plane with total number of seats more than 350.# MySQL-project2
+--- Q6: Retrieve the Maker and the total number of planes made by this Maker, for Makers who make any plane with total number of seats more than 350.
